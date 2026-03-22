@@ -68,13 +68,6 @@ ul {
   background-color: #2e2f42;
 }
 
-.h2 {
-  font-family: #2e2f42;
-  /* line-height: 40px; */
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-}
-
 .hero-title {
   font-size: 56px;
   line-height: 1.07;
