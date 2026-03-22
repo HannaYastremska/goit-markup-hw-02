@@ -45,7 +45,7 @@ ul {
 }
 
 /* --- КОНТАКТИ --- */
-address {
+.contacts. {
   font-style: normal;
 }
 
@@ -55,6 +55,7 @@ address {
   letter-spacing: 0.02em;
   color: #434455;
   text-decoration: none;
+  font-style: normal;
 }
 
 .contacts-link:hover,
@@ -65,6 +66,11 @@ address {
 /* --- HERO --- */
 .hero {
   background-color: #2e2f42;
+  text-align: center;
+}
+
+.h2 {
+  text-align: center;
 }
 
 .hero-title {
@@ -83,6 +89,9 @@ address {
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
+  text-align: left;
+  display: block;
+  margin-right: auto;
 }
 
 .button:hover,
@@ -117,6 +126,7 @@ address {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  text-align: center;
 }
 
 .team-item {
@@ -129,6 +139,7 @@ address {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-align: center;
 }
 
 .team-role {
@@ -136,6 +147,7 @@ address {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  text-align: center;
 }
 
 /* --- PORTFOLIO --- */
@@ -145,6 +157,7 @@ address {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  text-align: center;
 }
 
 .portfolio-subtitle {
